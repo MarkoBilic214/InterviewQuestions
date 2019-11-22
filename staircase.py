@@ -3,7 +3,7 @@ Count the number of ways to reach the nth stair starting from the bottom given t
 Before moving on to the solution, please try to think about the question practically and make sure you understand the problem well.
 
 
-           _4_
+            _4_
         _2_|
      _1_|
  _1_|
